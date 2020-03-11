@@ -1,0 +1,7 @@
+language: python
+notifications:
+  email: true
+
+branches:
+  only:
+    - master
